@@ -1,1 +1,1 @@
-![ad](https://github.com/LearnAndGet/git-skills/blob/master/Tool.pdf)
+![ad](https://github.com/LearnAndGet/git-skills/blob/master/Tool.jpg)
